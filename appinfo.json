@@ -1,0 +1,34 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "2bd97899-eba8-4610-bca7-2dd87bf1e77e",
+    "appKeys": {},
+    "longName": "Clear Pebble",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Clear Pebble",
+    "companyName": "Pranav Vishnu",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_HELVETICA_REGULAR_60",
+                "file": "fonts/HelveticaNeue_Med.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_HELVETICA_LIGHT_18",
+                "file": "fonts/HelveticaNeue_Lt.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_HELVETICA_LIGHT_43",
+                "file": "fonts/HelveticaNeue_Lt.ttf"
+            }
+        ]
+    }
+}
