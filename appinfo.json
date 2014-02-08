@@ -1,5 +1,5 @@
 {
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "uuid": "2bd97899-eba8-4610-bca7-2dd87bf1e77e",
     "appKeys": {},
     "longName": "Clear Pebble",
@@ -21,18 +21,20 @@
                 "file": "images/simple-small.png"
             },
             {
+                "characterRegex": "[0-9]",
                 "type": "font",
                 "name": "FONT_HELVETICA_REGULAR_60",
                 "file": "fonts/HelveticaNeue_Med.ttf"
             },
             {
+                "characterRegex": "[0-9]",
                 "type": "font",
-                "name": "FONT_HELVETICA_LIGHT_18",
+                "name": "FONT_HELVETICA_LIGHT_43",
                 "file": "fonts/HelveticaNeue_Lt.ttf"
             },
             {
                 "type": "font",
-                "name": "FONT_HELVETICA_LIGHT_43",
+                "name": "FONT_HELVETICA_LIGHT_18",
                 "file": "fonts/HelveticaNeue_Lt.ttf"
             }
         ]
